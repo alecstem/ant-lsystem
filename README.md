@@ -1,4 +1,9 @@
-# Strutural Encoding of Ant Nests
+# L-System Strutural Encoding of Ant Nest Architecture
+
+<p align="center">
+  <img src="images/compare1.jpg" width="800" height="400" >
+  <img src="images/compare3.jpg" width="800" height="400" >
+</p>
 
 # Description
 This project attempts to model the structure of an ant nest (specifically fire some fire ant species) using an L-system and some additional parameters.
