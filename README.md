@@ -1,4 +1,4 @@
-# L-System Strutural Encoding of Ant Nest Architecture
+# L-System Encoding of Ant Nest Architecture
 
 <p align="center">
   <img src="images/compare1.jpg" width="800" height="400" >
