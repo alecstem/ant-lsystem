@@ -6,7 +6,7 @@
 </p>
 
 # Description
-This project attempts to model the structure of an ant nest (specifically fire some fire ant species) using an L-system and some additional parameters.
+This project attempts to model the structure of an ant nest (specifically some fire ant species, such as the _Pogonomyrmex badius_ or _Pheidole morrisii_) using an L-system and some additional parameters.
 
 ## Some variable info
 
